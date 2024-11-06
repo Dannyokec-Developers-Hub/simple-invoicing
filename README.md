@@ -1,21 +1,5 @@
 # OKEC Invoice System Development Manual
 
----
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Development Environment Setup](#development-environment-setup)
-3. [Code Culture & Standards](#code-culture--standards)
-4. [Repository Access & Version Control](#repository-access--version-control)
-5. [Communication Protocols](#communication-protocols)
-6. [Project Architecture & Key Modules](#project-architecture--key-modules)
-7. [Testing & Quality Assurance](#testing--quality-assurance)
-8. [Deployment Guidelines](#deployment-guidelines)
-9. [Access to Sensitive Information](#access-to-sensitive-information)
-10. [Troubleshooting & Support Resources](#troubleshooting--support-resources)
-
----
 
 ## 1. Project Overview
 
